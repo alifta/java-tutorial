@@ -1,0 +1,22 @@
+# Mac
+.DS_Store
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+.target/
+
+# Compiled Files
+*.class
+bin/
+build/
+java/build/**
